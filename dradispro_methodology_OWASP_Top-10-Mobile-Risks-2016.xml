@@ -1,0 +1,51 @@
+<board version="2"><name>OWASP Top 10 Mobile Risks 2016</name><list><name>Pending</name><previous_id/><card><name>[M1-Improper Platform Usage] Identify if platform security controls are used following published guidelines and best practices</name><description><![CDATA[#[Section]#
+M1-Improper Platform Usage
+#[Description]#
+Identify if platform security controls are used following published guidelines and best practices
+
+]]></description></card><card><name>[M2-Insecure Data Storage] Check the app storage data locations and permissions are in-line with the corresponding app type (L1, L2, R)</name><description><![CDATA[#[Section]#
+M2-Insecure Data Storage
+#[Description]#
+Check the app storage data locations and permissions are in-line with the corresponding app type (L1, L2, R)
+
+]]></description></card><card><name>[M3-Insecure Communication] Check that strong cryptography, certificates and secure channels are used in the communication between all app components</name><description><![CDATA[#[Section]#
+M3-Insecure Communication
+#[Description]#
+Check that strong cryptography, certificates and secure channels are used in the communication between all app components
+
+]]></description></card><card><name>[M4-Insecure Authentication] Try to bypass app's authentication scheme</name><description><![CDATA[#[Section]#
+M4-Insecure Authentication
+#[Description]#
+Try to bypass app's authentication scheme
+
+]]></description></card><card><name>[M5-Insufficient Cryptography] Search for weak hashing and encryption algorithms, hardcoded keys and ways to revert encryption</name><description><![CDATA[#[Section]#
+M5-Insufficient Cryptography
+#[Description]#
+Search for weak hashing and encryption algorithms, hardcoded keys and ways to revert encryption
+
+]]></description></card><card><name>[M6-Insecure Authorization] Check authorization scheme and try to bypass privileges and roles</name><description><![CDATA[#[Section]#
+M6-Insecure Authorization
+#[Description]#
+Check authorization scheme and try to bypass privileges and roles
+
+]]></description></card><card><name>[M7-Client Code Quality] Perform code analysis and search for buffer overflows, format string vulnerabilities and other client app code bugs</name><description><![CDATA[#[Section]#
+M7-Client Code Quality
+#[Description]#
+Perform code analysis and search for buffer overflows, format string vulnerabilities and other client app code bugs
+
+]]></description></card><card><name>[M8-Code Tampering] Check for modifications on code app, including binary patching, local resource modification, API replacement, method hooking, method swizzling and dynamic memory modification</name><description><![CDATA[#[Section]#
+M8-Code Tampering
+#[Description]#
+Check for modifications on code app, including binary patching, local resource modification, API replacement, method hooking, method swizzling and dynamic memory modification
+
+]]></description></card><card><name>[M9-Reverse Engineering] Detect susceptibility to reverse engineering</name><description><![CDATA[#[Section]#
+M9-Reverse Engineering
+#[Description]#
+Detect susceptibility to reverse engineering
+
+]]></description></card><card><name>[M10-Extraneous Functionality] Analyze code and test app functionalities in search of hidden and testing code or switches left behind by developers</name><description><![CDATA[#[Section]#
+M10-Extraneous Functionality
+#[Description]#
+Analyze code and test app functionalities in search of hidden and testing code or switches left behind by developers
+
+]]></description></card></list><list><name>Done</name></list></board>
